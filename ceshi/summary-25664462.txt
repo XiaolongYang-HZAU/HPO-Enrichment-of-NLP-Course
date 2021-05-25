@@ -1,0 +1,4 @@
+1: Deng Y, Gao L, Wang B, Guo X. HPOSim: an R package for phenotypic similarity
+measure and enrichment analysis based on the human phenotype ontology. PLoS One.
+2015 Feb 9;10(2):e0115692. doi: 10.1371/journal.pone.0115692. PMID: 25664462;
+PMCID: PMC4321842.
