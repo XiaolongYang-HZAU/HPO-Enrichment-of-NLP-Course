@@ -3,6 +3,7 @@ The final assignment of 2021 NLP Course<br>
 Please read the note file for help<br>
 运行环境：Win10下的Vscode＋Python3.7.3<br>
 运行环境配置/参考githb项目：<br>
+$ cd ceshi
 $ git clone https://github.com/Nanguage/BioTMCourse.git<br>
 $ cd HPO\ enrich/<br>
 $ python setup.py install<br>
